@@ -1,0 +1,7 @@
+## Pages
+- [- BobsonTech Blog](/blogpost): No description available
+- [Admin - Add New Post - BobsonTech](/admin): Admin panel to add new blog posts for BobsonTech.
+- [Blog - BobsonTech](/blog): Read the latest insights, trends, and expert opinions on automation, RPA, and AI from the BobsonTech blog.
+- [BobsonTech - Intelligent Automation Solutions](/home): BobsonTech empowers businesses with intelligent automation, RPA, and AI solutions to streamline operations, cut costs, and enhance customer experiences.
+- [Contact Us - BobsonTech](/contact): Get in touch with BobsonTech for your automation needs. Reach out for a consultation, support, or any inquiries.
+- [Get Started - BobsonTech](/getstarted): Start your automation journey with BobsonTech. Learn about our process and contact us for a free consultation.
