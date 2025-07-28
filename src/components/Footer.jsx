@@ -47,7 +47,7 @@ const Footer = ({
       <span className="font-semibold text-white mb-4 block">Contact</span>
       <div className="space-y-3 text-gray-400">
         <div className="flex items-center"><Mail className="w-4 h-4 mr-3 text-blue-400 flex-shrink-0" /><span>official@bobsontech.com</span></div>
-        <div className="flex items-center"><Phone className="w-4 h-4 mr-3 text-blue-400 flex-shrink-0" /><span>+91 9049647830</span></div>
+        <div className="flex items-center"><Phone className="w-4 h-4 mr-3 text-blue-400 flex-shrink-0" /><span>+91 9049647830 / 9137656530</span></div>
         <div className="flex items-center"><MapPin className="w-4 h-4 mr-3 text-blue-400 flex-shrink-0" /><span>Mumbai, India</span></div>
       </div>
     </div>;
